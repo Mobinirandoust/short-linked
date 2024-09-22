@@ -1,0 +1,28 @@
+*{
+    color: yellow;
+    text-shadow: 2px 2px 2px black  ;
+}
+:root {
+    color-scheme: dark;
+}
+.menu1 {    
+    letter-spacing: 10px;background-color: rgb(21, 169, 177);color: aliceblue; }
+.menu1 {    width: auto; height: auto;}
+.menu1 {
+    text-align: center; cursor: pointer;}
+.formin {
+    font-size: large; text-align: center;color: aliceblue;}
+.formin {
+    font-size: 20px; }
+.formin2 {
+    font-size: large; text-align: center; font-family:fantasy}
+.formin2 {
+    font-size: 20px; }
+
+@font-face {
+    font-family: nazanin;
+    src: url(Mj_Freehand.ttf);
+}
+
+.info-down {text-align: right;color: wheat;margin-right: 10px;}
+input {width: 200px;height: 30px;}
